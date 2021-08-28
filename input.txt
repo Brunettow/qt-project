@@ -1,0 +1,6 @@
+btc
+eth
+xrp
+Cardano
+Litecoin
+1inch
